@@ -1,0 +1,26 @@
+code | region
+
+los : us-la
+sea : us-seattle
+dal : us-dallas
+mia : us-miami
+chi : us-chicago
+jer : us-new-jersey
+tor : ca-toronto
+mex : mexico
+sao : bra-sao-paulo
+esp : spain
+gbr : london
+deu : germany
+pol : poland
+swe : sweden
+del : in-delhi
+mum : in-mumbai
+ban : in-bangalore
+sgp : singapore
+tok : tokyo
+syd : sydney
+san : santiago
+isr : israel
+
+  Thank you maxomatic458, he is the guy who made me discover this list of datacenters, thanks to the old method for changing datacenters on the playit program
