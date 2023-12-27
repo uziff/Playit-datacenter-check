@@ -22,5 +22,5 @@ py playit-dc.py
 ```
 
 # Useful links:
-### [PLAYIT.GG](https://playit.gg) [DISCORD](https://discord.gg/qukYXy7ynt)
+### [[PLAYIT.GG]](https://playit.gg)    [[DISCORD]](https://discord.gg/qukYXy7ynt)
 can't find the discord bot link? [here]
