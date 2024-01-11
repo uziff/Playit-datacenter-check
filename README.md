@@ -1,7 +1,7 @@
 # Unofficial Playit-Datacenter Checker
 This is an **unofficial** program that allow playit users to checks if a datacenter is down or not. <br>
 The way it works is very simple: using ping on every datacenters address! <br>
-A discord bot is going to be publshed in the future, you will find the link in this github repository. <br>
+A discord bot has been made, you will find the link in this github repository. <br>
 ![PLAYIT_GG](https://playit.gg/build/_assets/logo-NYRFHLA6.png)
 ![PLAYIT GG 27_12_2023 21_17_27](https://github.com/uziff/Playit-datacenter-check/assets/110534939/44548e47-6166-4430-8669-f574765ce0b2)
 
@@ -22,4 +22,4 @@ py playit-dc.py
 ```
 
 # Useful links:
-### [[PLAYIT.GG]](https://playit.gg)    [[DISCORD]](https://discord.gg/qukYXy7ynt)
+### [[DISCORD BOT]](https://discord.com/api/oauth2/authorize?client_id=1194775479593488465&permissions=8&scope=bot) [[PLAYIT.GG]](https://playit.gg)    [[DISCORD]](https://discord.gg/qukYXy7ynt)
