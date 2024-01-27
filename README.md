@@ -8,7 +8,7 @@ I have made a discord bot for it, you will find the link in this github reposito
 ## If its easier, there is the already pre-compiled version [here](https://github.com/uziff/Playit-datacenter-check/releases).
 
 
-To execute this code is very simple:
+To execute this source code is very simple:
 1. First of all, if you alredy _dont have it.._, get [Python](https://www.python.org/downloads/) and install it.
 2. Open your command line and type:
 ```
@@ -21,5 +21,5 @@ py playit-dc.py
 ```
 
 # Useful links:
-### [[DISCORD BOT]](https://discord.com/api/oauth2/authorize?client_id=1194775479593488465&permissions=8&scope=bot) [[PLAYIT.GG]](https://playit.gg)    [[DISCORD]](https://discord.gg/qukYXy7ynt)
+### [[DISCORD BOT]](https://discord.com/api/oauth2/authorize?client_id=1194775479593488465&permissions=8&scope=bot) [[PLAYIT.GG]](https://playit.gg)    [[DISCORD]](https://discord.gg/qukYXy7ynt)   [[IP-Checker]](https://github.com/uziff/Playit-IP-check/)
 
