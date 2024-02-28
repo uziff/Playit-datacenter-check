@@ -13,6 +13,7 @@ To execute this source code is very simple:
 2. Open your command line and type:
 ```
 pip install colorama
+pip install keyboard
 ```
 3. Download the program from [here](https://github.com/uziff/Playit-datacenter-check/releases).
 4. Then run the code by simply tiping:
