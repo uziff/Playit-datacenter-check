@@ -3,7 +3,8 @@ This is an **unofficial** program i've made, that allow playit users to checks i
 The way it works is very simple: using ping on every datacenters address! <br>
 I have made a discord bot for it, you will find the link in this github repository. <br>
 ![PLAYIT_GG](https://playit.gg/build/_assets/logo-NYRFHLA6.png)
-![PLAYIT GG 15_01_2024 21_31_20](https://github.com/uziff/Playit-datacenter-check/assets/110534939/29d90b57-af4d-400a-8f4d-2f4e958abed3)
+![Desktop Screenshot 2024 02 28 - 22 25 29 10](https://github.com/uziff/Playit-datacenter-check/assets/110534939/3ab5ae64-3fac-4f20-af4a-867c2bcd85f0)
+
 
 ## If its easier, there is the already pre-compiled version [here](https://github.com/uziff/Playit-datacenter-check/releases).
 
